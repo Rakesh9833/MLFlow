@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Biomed-GA/mlflow_run/project/mlruns/0/094a8e771e3d4cd2b53378fc89bc7dd5/artifacts
+end_time: 1669837628527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 094a8e771e3d4cd2b53378fc89bc7dd5
+run_name: invincible-carp-67
+run_uuid: 094a8e771e3d4cd2b53378fc89bc7dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669837626174
+status: 3
+tags: []
+user_id: Rakesh

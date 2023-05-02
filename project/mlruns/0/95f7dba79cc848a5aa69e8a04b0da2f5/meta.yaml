@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Biomed-GA/mlflow_run/project/mlruns/0/95f7dba79cc848a5aa69e8a04b0da2f5/artifacts
+end_time: 1669834633127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95f7dba79cc848a5aa69e8a04b0da2f5
+run_name: suave-frog-973
+run_uuid: 95f7dba79cc848a5aa69e8a04b0da2f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669834629455
+status: 3
+tags: []
+user_id: Rakesh

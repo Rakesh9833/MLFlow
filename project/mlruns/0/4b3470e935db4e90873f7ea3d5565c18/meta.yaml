@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Biomed-GA/mlflow_run/project/mlruns/0/4b3470e935db4e90873f7ea3d5565c18/artifacts
+end_time: 1669834910279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b3470e935db4e90873f7ea3d5565c18
+run_name: valuable-hound-101
+run_uuid: 4b3470e935db4e90873f7ea3d5565c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669834907330
+status: 3
+tags: []
+user_id: Rakesh
